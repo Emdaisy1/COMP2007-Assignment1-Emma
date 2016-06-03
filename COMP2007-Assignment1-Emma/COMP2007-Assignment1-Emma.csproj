@@ -70,12 +70,14 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\app.css" />
     <Content Include="Images\Me.jpg" />
     <Content Include="Images\poetryBook.jpg" />
     <Content Include="Images\rainmaker.PNG" />
     <Content Include="Images\tabFusion.PNG" />
     <Content Include="packages.config" />
     <Content Include="ContactMaster.Master" />
+    <Content Include="Scripts\app.js" />
     <Content Include="Site.Master" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />
     <None Include="Web.Debug.config">
