@@ -29,8 +29,32 @@
             <div class="media-right">
                 <asp:Image runat="server" ImageUrl="~/Images/poetryBook.jpg"></asp:Image>
             </div>
-            <br />
-            <br />
+        </div>
+        <div class="row text-info">
+            <div class="media-left">
+                <asp:Image runat="server" ImageUrl="~/Images/tabFusion.png"></asp:Image>
+            </div>
+            <div class="col-md-10">
+                <p>
+                    2) In 2015, as part of her co-op with the County of Dufferin, Emma helped complete the implentation of <a href="http://fusionrms.tab.com/">TabFusion RMS</a>. 
+                    This system was completely new to the employees at the County. In addition to helping complete the implentation, Emma created a custom 40-page manual 
+                    to help the employees as they learned to work with the new system.
+                </p>
+            </div>
+        <br />
+        <br />
+        </div>
+        <div class="row text-info">
+            <div class="media-left">
+                <asp:Image runat="server" ImageUrl="~/Images/rainmaker.png"></asp:Image>
+            </div>
+            <div class="col-md-10">
+                <p>
+                    3) Emma is currently on contract with <a href="http://www.copyblogger.com/">Copyblogger Media</a>. She works as a Junior Developer on 
+                    their <a href="http://rainmakerplatform.com/">Rainmaker Platform</a>. While this project started before she was working with Copyblogger, 
+                    she is now a contributing part of the team working on it.
+                </p>
+            </div>
         </div>
     </div>
 </asp:Content>

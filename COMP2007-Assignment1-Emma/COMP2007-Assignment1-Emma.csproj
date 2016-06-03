@@ -70,7 +70,10 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\Me.jpg" />
     <Content Include="Images\poetryBook.jpg" />
+    <Content Include="Images\rainmaker.PNG" />
+    <Content Include="Images\tabFusion.PNG" />
     <Content Include="packages.config" />
     <Content Include="ContactMaster.Master" />
     <Content Include="Site.Master" />
