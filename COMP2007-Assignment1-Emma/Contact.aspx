@@ -44,7 +44,7 @@
                 </div>
                 <div class="text-right">
                     <a class="btn btn-warning btn-lg" id="CancelButton" href="Default.aspx">Cancel</a>
-                    <asp:Button runat="server" CssClass="btn btn-primary btn-lg" ID="SubmitButton" Text="Submit" />
+                    <asp:Button runat="server" CssClass="btn btn-primary btn-lg" ID="SubmitButton" Text="Submit" OnClick="SubmitButton_Click" CausesValidation="true" />
                 </div>
             </div>
         </div>

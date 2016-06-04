@@ -21,43 +21,43 @@
                     Emma is familiar with (and can help code in) the following languages:
                 </p>
                 <p>
-                    <i class="devicon-angularjs-plain"></i>AngularJS
+                    <i class="devicon-angularjs-plain"></i> AngularJS
                 </p>
                 <p>
-                    <i class="devicon-bootstrap-plain"></i>Bootstrap
+                    <i class="devicon-bootstrap-plain"></i> Bootstrap
                 </p>
                 <p>
-                    <i class="devicon-cplusplus-plain"></i>C++
+                    <i class="devicon-cplusplus-plain"></i> C++
                 </p>
                 <p>
-                    <i class="devicon-csharp-plain"></i>C#
+                    <i class="devicon-csharp-plain"></i> C#
                 </p>
                 <p>
-                    <i class="devicon-css3-plain"></i>CSS3
+                    <i class="devicon-css3-plain"></i> CSS3
                 </p>
                 <p>
-                    <i class="devicon-html5-plain"></i>HTML5
+                    <i class="devicon-html5-plain"></i> HTML5
                 </p>
                 <p>
-                    <i class="devicon-java-plain"></i>Java
+                    <i class="devicon-java-plain"></i> Java
                 </p>
                 <p>
-                    <i class="devicon-javascript-plain"></i>JavaScript
+                    <i class="devicon-javascript-plain"></i> JavaScript
                 </p>
                 <p>
-                    <i class="devicon-jquery-plain"></i>JQuery
+                    <i class="devicon-jquery-plain"></i> JQuery
                 </p>
                 <p>
-                    <i class="devicon-mongodb-plain"></i>MongoDB
+                    <i class="devicon-mongodb-plain"></i> MongoDB
                 </p>
                 <p>
-                    <i class="devicon-mysql-plain"></i>MySQL
+                    <i class="devicon-mysql-plain"></i> MySQL
                 </p>
                 <p>
-                    <i class="devicon-nodejs-plain"></i>NodeJS
+                    <i class="devicon-nodejs-plain"></i> NodeJS
                 </p>
                 <p>
-                    <i class="devicon-php-plain"></i>PHP
+                    <i class="devicon-php-plain"></i> PHP
                 </p>
             </div>
             <div class="col-md-offset-6">
@@ -65,25 +65,25 @@
                     Emma is familiar with and can help with the following programs/services/platforms:
                 </p>
                 <p>
-                    <i class="devicon-android-plain"></i>Android
+                    <i class="devicon-android-plain"></i> Android
                 </p>
                 <p>
-                    <i class="devicon-bower-plain"></i>Bower
+                    <i class="devicon-bower-plain"></i> Bower
                 </p>
                 <p>
-                    <i class="devicon-chrome-plain"></i>Chrome
+                    <i class="devicon-chrome-plain"></i> Chrome
                 </p>
                 <p>
-                    <i class="devicon-github-plain"></i>GitHub & <i class="devicon-gitlab-plain"></i>GitLab
+                    <i class="devicon-github-plain"></i> GitHub & <i class="devicon-gitlab-plain"></i> GitLab
                 </p>
                 <p>
-                    <i class="devicon-trello-plain"></i>Trello
+                    <i class="devicon-trello-plain"></i> Trello
                 </p>
                 <p>
-                    <i class="devicon-windows8-original"></i>Windows 8
+                    <i class="devicon-windows8-original"></i> Windows 8
                 </p>
                 <p>
-                    <i class="devicon-wordpress-plain"></i>WordPress
+                    <i class="devicon-wordpress-plain"></i> WordPress
                 </p>
             </div>
         </div>
