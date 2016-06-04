@@ -6,6 +6,7 @@
 
 <%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="COMP2007_Assignment1_Emma.About" %>
 
+<%-- A brief summary of who I am --%>
 <asp:Content ID="Content2" ContentPlaceHolderID="Main" runat="server">
     <div class="container">
         <div class="col-sm-2 media">

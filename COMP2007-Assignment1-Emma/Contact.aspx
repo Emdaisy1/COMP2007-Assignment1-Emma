@@ -6,6 +6,7 @@
 
 <%@ Page Title="" Language="C#" MasterPageFile="~/ContactMaster.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="COMP2007_Assignment1_Emma.Contact" %>
 
+<%--Main content for the contact page, including (non-functional) message submission form--%>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContactMain" runat="server">
     <div class="container">
         <div class="row">

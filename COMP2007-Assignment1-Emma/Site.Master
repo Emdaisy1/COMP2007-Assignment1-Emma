@@ -31,7 +31,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-
+    <!-- Navbar for all pages -->
         <nav class="navbar navbar-inverse" role="navigation">
             <div class="container-fluid">
                 <div class="navbar-header">
@@ -60,7 +60,7 @@
             </asp:ContentPlaceHolder>
         </div>
     </form>
-
+    <!-- Footer for all pages -->
     <footer>
     <br />
         <div class="row panel-footer">

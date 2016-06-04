@@ -6,6 +6,7 @@
 
 <%@ Page Title="Projects" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Projects.aspx.cs" Inherits="COMP2007_Assignment1_Emma.Projects" %>
 
+<%-- A list of the top three "projects" I've been involved in that are worth noting --%>
 <asp:Content ID="Content2" ContentPlaceHolderID="Main" runat="server">
     <div class="container">
         <div class="row panel-title">

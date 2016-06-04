@@ -14,6 +14,7 @@ namespace COMP2007_Assignment1_Emma
 
         }
 
+        //Function that runs when submission is accepted and lets user return to the home page
         protected void SubmitButton_Click(object sender, EventArgs e)
         {
             Page.ClientScript.RegisterStartupScript(this.GetType(), "Scripts", "<script>alert('Message submitted! Click \"Ok\" to go back to the home page!');</script>");

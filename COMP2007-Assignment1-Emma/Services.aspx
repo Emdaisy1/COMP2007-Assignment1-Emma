@@ -7,6 +7,7 @@
 
 <%@ Page Title="Services" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Services.aspx.cs" Inherits="COMP2007_Assignment1_Emma.Services" %>
 
+<%-- Main content on page containing list of code and software/systems I'm familiar with and could theoretically offer services regarding --%>
 <asp:Content ID="Content2" ContentPlaceHolderID="Main" runat="server">
     <div class="container">
         <div class="row">

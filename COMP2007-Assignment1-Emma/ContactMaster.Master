@@ -27,8 +27,9 @@
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <form id="form1" runat="server">
 
+    <form id="form1" runat="server">
+        <%-- Navbar for all pages --%>
         <nav class="navbar navbar-inverse" role="navigation">
             <div class="container-fluid">
                 <div class="navbar-header">
@@ -38,15 +39,15 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="Default.aspx"><i class="fa fa-book" aria-hidden="true"></i> Emma's Portfolio</a>
+                    <a class="navbar-brand" href="Default.aspx"><i class="fa fa-book" aria-hidden="true"></i>Emma's Portfolio</a>
                 </div>
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="Default.aspx"><i class="fa fa-home fa-lg"></i> Home</a></li>
-                        <li><a href="About.aspx"><i class="fa fa-info fa-lg"></i> About Emma</a></li>
-                        <li><a href="Projects.aspx"><i class="fa fa-briefcase fa-lg"></i> Projects</a></li>
-                        <li><a href="Services.aspx"><i class="fa fa-gear fa-lg"></i> Services</a></li>
-                        <li class="active"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i> Contact Emma</a></li>
+                        <li><a href="Default.aspx"><i class="fa fa-home fa-lg"></i>Home</a></li>
+                        <li><a href="About.aspx"><i class="fa fa-info fa-lg"></i>About Emma</a></li>
+                        <li><a href="Projects.aspx"><i class="fa fa-briefcase fa-lg"></i>Projects</a></li>
+                        <li><a href="Services.aspx"><i class="fa fa-gear fa-lg"></i>Services</a></li>
+                        <li class="active"><a href="Contact.aspx"><i class="fa fa-phone fa-lg"></i>Contact Emma</a></li>
                     </ul>
                 </div>
             </div>
@@ -57,9 +58,9 @@
             </asp:ContentPlaceHolder>
         </div>
     </form>
-
+    <%-- Footer for all pages --%>
     <footer>
-    <br />
+        <br />
         <div class="row panel-footer">
             <p class="text-left">
                 Page copyright of Emma Hilborn, 2016
